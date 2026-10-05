@@ -87,16 +87,27 @@ It serves as an executive reporting tool designed for store managers, inventory 
 
 
 +---------------------------------------------------------------------------------------+
+
 |  SUPERMARKET   |  [Transactions KPI]     [Profit KPI]          [Returns KPI]          |
+
 |  PERFORMANCE   |  18,325 (+5.69%)        $71,682 (+5.61%)      496 (+2.90%)           |
+
 +----------------+----------------------------------------------------------------------+
+
 | [Brand Table]  | [Country Filter] | [Geographic Map]         | [Regional Treemap]     |
+
 | Top brands,    | - Select All     | Cross-border footprint   | USA vs Mexico          |
+
 | Profit margin, | - USA, Mexico,   | (North America stores)   | vs Canada              |
+
 | Return rates   |   Canada         |                          |                        |
+
 +----------------+------------------+--------------------------+------------------------+
+
 |                | [Weekly Revenue Trending (Bar Chart)]       | [Revenue vs Target]    |
+
 |                | Fiscal year quarterly & seasonal movement   | Gauge Visual ($120.1K) |
+
 +----------------+---------------------------------------------+------------------------+
 
 
