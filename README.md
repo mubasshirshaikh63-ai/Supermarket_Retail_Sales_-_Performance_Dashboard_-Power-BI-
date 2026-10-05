@@ -112,12 +112,12 @@ It serves as an executive reporting tool designed for store managers, inventory 
 
 
 🎯 Key Metrics & KPIs Tracked
-Metric	Overall Value	Current Month Actual	Target / Goal	Variance
-Total Transactions	167,616	18,325	17,339	+5.69%
-Total Net Profit	$661,159	$71,682	$67,871.78	+5.61%
-Returns Volume	—	496	482	+2.90%
-Average Margin	~60%	—	—	Healthy
-Revenue vs Target	$120,160.84	Target: $119,477.23	Target Achieved ✅
+Metric,Overall Value,Current Month Actual,Target / Goal,Variance
+Total Transactions,"167,616","18,325","17,339",+5.69%
+Total Net Profit,"$661,159","$71,682","$67,871.78",+5.61%
+Returns Volume,—,496,482,+2.90%
+Average Margin,~60%,—,—,Healthy
+Revenue vs Target,"$120,160.84","Target: $119,477.23",Target Achieved ✅,
 
 🔍 Key Dashboard Features
 Executive KPI Cards with Sparklines:
