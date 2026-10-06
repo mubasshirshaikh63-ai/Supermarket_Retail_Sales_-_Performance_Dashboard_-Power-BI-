@@ -9,7 +9,6 @@ It serves as an executive reporting tool designed for store managers, inventory 
 
 
 
-
 SUPERMARKET PERFORMANCE & ANALYTICS REPORT
 
 Business Analyst & Executive Management Review
