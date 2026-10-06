@@ -141,15 +141,3 @@ Data Modeling: Star Schema / Snowflake relational modeling
 
 Calculation Engine: DAX (Data Analysis Expressions) for calculated measures, variances, and dynamic KPI states
 
-Data Prep & ETL: Power Query (M Language)
-
-📂 Repository Structure
-Plaintext
-├── assets/                  # Dashboard screenshots and demo GIFs
-│   ├── overview.png
-│   └── regional_slices.png
-├── data/                    # Sample / anonymized datasets (CSV/Excel)
-├── reports/                 # Executive summary & PDF exports
-│   └── Supermarket_Performance_Report.md
-├── Supermarket_Sales.pbix   # Main Power BI project file
-└── README.md                # Project documentation
